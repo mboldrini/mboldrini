@@ -2,8 +2,8 @@
 
 I’m a Software Engineer based in Vitória, Brazil. 📍
 
-I'm a autodidact with demonstrable capacity to assess and manage complex business 
-needs and surmount obstacles in the way thereof thus producing refined and accessible work products.
+I am an autodidact with a demonstrable capacity to assess and manage complex business needs, 
+overcoming obstacles in the process, and producing refined and accessible work products.
 
 #### My current tools 
 📲 Front-end Mobile with React Native  

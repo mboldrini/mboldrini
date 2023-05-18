@@ -1,6 +1,9 @@
 ### Hi, I'm Matheus Boldrini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer.
+I’m a Software Engineer based in Vitória, Brazil. 📍
+
+I'm a autodidact with demonstrable capacity to assess and manage complex business 
+needs and surmount obstacles in the way thereof thus producing refined and accessible work products.
 
 #### My current tools 
 📲 Front-end Mobile with React Native  

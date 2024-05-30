@@ -15,8 +15,4 @@ I am a proactive and adaptable Software Engineer based in Vitória, Brazil, with
 [![Gmail Badge](https://img.shields.io/badge/-hello@mboldrini.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@mboldrini.com)](mailto:hello@mboldrini.com)
 [![WebSite Badge](https://img.shields.io/badge/WebSite-Portfolio-green)](https://www.mboldrini.com)
 
-### 💹 Github Stats
 
-![MBoldrini's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboldrini&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mboldrini&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
